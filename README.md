@@ -6,7 +6,7 @@
   
   <br/>
   
-  ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=drpdishant&theme=nord&column=8&margin-w=15&margin-h=15)
+  ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=dhaval512&theme=nord&column=8&margin-w=15&margin-h=15)
   
 </div>
 
@@ -53,9 +53,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drpdishant/drpdishant/main/assets/darkmode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drpdishant/drpdishant/main/assets/lightmode.svg">
-    <img alt="My K8s & Observability Universe" src="https://raw.githubusercontent.com/drpdishant/drpdishant/main/assets/darkmode.svg" width="800px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhaval512/dhaval512/main/assets/darkmode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhaval512/dhaval512/main/assets/lightmode.svg">
+    <img alt="My K8s & Observability Universe" src="https://raw.githubusercontent.com/dhaval512/dhaval512/main/assets/darkmode.svg" width="800px">
   </picture>
 </div>
 
@@ -65,7 +65,7 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=drpdishant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dhaval512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td valign="top" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=drpdishant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -138,3 +138,5 @@ graph TD
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=drpdishant&style=flat-square&color=blue" alt="Profile views"/>
 </div>
+
+
